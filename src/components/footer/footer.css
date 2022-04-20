@@ -1,0 +1,12 @@
+#credits {
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+  }
+  
+  .ending-credits {
+    color: var(--color-light);
+    text-align: left;
+    width: 100%;
+    font-size: 11px;
+  }
