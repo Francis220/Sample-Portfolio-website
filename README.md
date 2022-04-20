@@ -8,7 +8,7 @@
   The first iteration of <a href="https://francis360.com" target="_blank">francis360.com</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://user-images.githubusercontent.com/32211479/111238274-24f8b100-85cd-11eb-9d5a-00f07cbc05e9.png">
+<img width="1435" alt="Screen Shot 2022-04-20 at 1 49 47 AM" src="https://user-images.githubusercontent.com/77220007/164169421-2747db6b-f8de-494b-bf6f-73f369c779f4.png">
 
 ## 🛠 set-up
 
@@ -23,6 +23,7 @@
    ```sh
    yarn run start
    ```
+
 
 ## 🚀 build and run for production
 
