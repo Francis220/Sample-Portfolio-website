@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
   francis360.com - v1
@@ -32,4 +31,3 @@
    ```sh
    npm run build
    ```
-
