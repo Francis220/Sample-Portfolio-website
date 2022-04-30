@@ -44,11 +44,13 @@
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 
+
+
 ## :briefcase: Other Dependencies Used
-:pen: Material-Ui
-:pen: React-icons
-:pen: EmailJs
-:pen: Typist
-:pen: PropTypes
+:pen: Material-Ui\
+:pen: React-icons\
+:pen: EmailJs\
+:pen: Typist\
+:pen: PropTypes\
 
 
