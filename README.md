@@ -46,10 +46,11 @@
 
 
 
+///
 ## :ladder: Other Dependencies Used
 :black_small_square: Material-Ui - https://mui.com/ \
 :black_small_square: React-icons - https://react-icons.github.io/react-icons/ \
-:black_small_square: EmailJ - https://www.emailjs.com/s \
+:black_small_square: EmailJS - https://www.emailjs.com/ \
 :black_small_square: Typist - https://www.npmjs.com/package/react-typist \
 :black_small_square: PropTypes - https://reactjs.org/docs/typechecking-with-proptypes.html
 
