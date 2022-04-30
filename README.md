@@ -47,7 +47,7 @@
 
 
 ///
-## :ladder: Other Dependencies Used
+## :ladder: Other Packages Used
 :black_small_square: Material-Ui - https://mui.com/ \
 :black_small_square: React-icons - https://react-icons.github.io/react-icons/ \
 :black_small_square: EmailJS - https://www.emailjs.com/ \
