@@ -42,3 +42,13 @@
 | Primary-variant| ![rgba(77, 181, 255, 0.4](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
 | White          | ![#fff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+
+
+## :briefcase: Other Dependencies Used
+:pen: Material-Ui
+:pen: React-icons
+:pen: EmailJs
+:pen: Typist
+:pen: PropTypes
+
+
