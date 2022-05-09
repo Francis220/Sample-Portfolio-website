@@ -93,10 +93,27 @@
   }
 }
 
-/* Media Queries (Small Devices) */
+* Media Queries (Small Devices) */
 
 @media screen and (max-width: 600px) {
- .about__content p {
+  #about {
+    height: unset;
+    padding-top: 30%;
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+
+  .about__cards {
+    padding-top: 3rem;
+    display: block;
+    gap: 2rem;
+  }
+
+  .about__me {
+   display: none;
+  }
+  .about__me-image {
     display: none;
   }
 }
+
