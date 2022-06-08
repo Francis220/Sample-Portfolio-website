@@ -36,12 +36,12 @@
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Site Background| !`#0a192f` |
-| Bg variant     | !`#112240` |
-| Primary        | ! `#233554` |
-| Primary-variant| ! `#8892b0` |
-| White          | ! `#e6f1ff` |
-| Green          | ! `#64ffda` |
+| Site Background| `#0a192f` |
+| Bg variant     | `#112240` |
+| Primary        | `#233554` |
+| Primary-variant| `#8892b0` |
+| White          | `#e6f1ff` |
+| Green          | `#64ffda` |
 
 
 ## :ladder: Other Packages Used
