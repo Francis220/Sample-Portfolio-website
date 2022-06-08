@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">
-  francis360.com - v1
+  Portfolio website - v1
 </h1>
 <p align="center">
   A protfolio website built with React.js leveraging Material UI.
