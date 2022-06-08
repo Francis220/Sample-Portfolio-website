@@ -36,12 +36,12 @@
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
-| Site Background| ![#1f1f38] `#0a192f` |
-| Bg variant     | ![#2c2c6c](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Primary        | ![#4db5ff](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Primary-variant| ![rgba(77, 181, 255, 0.4](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| White          | ![#fff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+| Site Background| !`#0a192f` |
+| Bg variant     | !`#112240` |
+| Primary        | ! `#233554` |
+| Primary-variant| ! `#8892b0` |
+| White          | ! `#e6f1ff` |
+| Green          | ! `#64ffda` |
 
 
 ## :ladder: Other Packages Used
